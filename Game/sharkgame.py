@@ -11,3 +11,4 @@ if (ready == 'y'):
 else:
 	print("Ok, bye!")
 	
+print("Game over!")
